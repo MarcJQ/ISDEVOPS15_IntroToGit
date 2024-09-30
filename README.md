@@ -1,2 +1,2 @@
 # My First Git Project
-Student: Marc Que -Introduction to Git
+Student: Marc Que - Intro to DevOps
